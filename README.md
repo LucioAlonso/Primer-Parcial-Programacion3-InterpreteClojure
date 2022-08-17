@@ -6,5 +6,3 @@ Deberás hacer un *fork* de este proyecto en tu cuenta de GitHub. Luego, en tu m
 Seguí las instrucciones del archivo **INSPT-ProgIII-p1-2022c1-InterpreteLispEnClojure-Enunciado.pdf**
 ### Requisitos de aprobación
 Para aprobar, se deberá entregar un proyecto compuesto por el código fuente del intérprete de TLC-LISP en Clojure y las pruebas de las funciones desarrolladas (como mínimo, las pruebas correspondientes a los ejemplos que acompañan el código fuente del intérprete sin terminar proporcionado por la cátedra).
-### Plazo máximo de entrega
-Lunes 27/6 a las 23:59 hs. debe haber sido *pusheado* el último commit. No se consideran cambios a partir de ese horario.
