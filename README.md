@@ -1,7 +1,3 @@
-# Intérprete de TLC-Lisp en Clojure
-## Primer examen parcial de Prog III - INSPT
-### Cómo trabajar
-Deberás hacer un *fork* de este proyecto en tu cuenta de GitHub. Luego, en tu máquina local y a través de la consola, podrás clonar tu repositorio remoto mediante el comando `git clone urlDeTuRepositorio`. Recordá subir tus cambios a GitHub (`git push`) periódicamente para poder ver tus avances.
 ### Qué hacer
 Seguí las instrucciones del archivo **INSPT-ProgIII-p1-2022c1-InterpreteLispEnClojure-Enunciado.pdf**
 ### Requisitos de aprobación
